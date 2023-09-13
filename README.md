@@ -5,4 +5,4 @@ This simulation uses Geometric Brownian motion to model stock prices in the Blac
 
 It plots the Probability Density function and computes the probability the stock has increased or decreased in the chosen time frame.
 
-An example of the simulation is given using AAPL and its closing price on 11/09/2023
+An example of the simulation is given using AAPL with arbitrary drift and volatility and its closing price on 11/09/2023
